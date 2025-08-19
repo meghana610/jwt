@@ -1,0 +1,29 @@
+{
+  "name": "todojwt",
+  "version": "1.0.0",
+  "description": "steos for jwt",
+  "main": "jwt.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/meghana610/jwt.git"
+  },
+  "keywords": [
+    "json",
+    "we",
+    "token",
+    "steps"
+  ],
+  "author": "Meghana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meghana610/jwt/issues"
+  },
+  "homepage": "https://github.com/meghana610/jwt#readme",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
+}
